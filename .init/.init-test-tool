@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/responsive-learning-platform-335409-335425/fastapi_backend"
+}
